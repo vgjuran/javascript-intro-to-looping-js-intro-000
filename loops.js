@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 function forLoop(arr) {
 
   for (var i = 0; i < 25; i++) {
@@ -31,3 +32,10 @@ function doWhileLoop(array){
   } while (array.length > 0 && maybeTrue())
   return array
 }
+=======
+function forLoop() {
+  for (var i = 0; i < 25; i++) {
+    console.log(`I am ${i} strange loops` );
+  }
+}
+>>>>>>> 55fe09311b66200fe40018cd01c297d8044cfa99
